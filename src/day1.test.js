@@ -1,7 +1,7 @@
 import fs from 'fs';
 
 const part1 = () => {
-  const input = fs.readFileSync('src/day2-input.txt')
+  const input = fs.readFileSync('src/day1-input.txt')
     .toString();
   console.log(input);
 }

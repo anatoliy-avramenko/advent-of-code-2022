@@ -1,8 +1,6 @@
 # Jest unit tests
 
-This folder contains a unit test template for [Jest](https://facebook.github.io/jest).
-
-Configured to support ES6 syntax using Babel (preset `es2015`)
+Advent of Code 2022
 
 ## Installation
 
